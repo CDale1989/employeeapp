@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.a {
+    text-decoration: underline!important;
+}
+
+.definition-header {
+    font-size:xx-large;
+}
+
+.search-definition {
+    padding: 20px;
+}
+
+.definition-result {
+    margin-bottom: 10px;
+    padding: 3px;
+
+}
